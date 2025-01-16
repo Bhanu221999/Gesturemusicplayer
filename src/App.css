@@ -1,0 +1,18 @@
+.player{
+    width: 350px;
+    background-color:  #404952;
+    padding: 26px;
+    color : #ffffffd0;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+  }
+  
+  h3{
+    text-align: center;
+    letter-spacing: 1px;
+  }
+  
+  hr{
+    opacity: .6;
+  }
